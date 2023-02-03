@@ -1,24 +1,22 @@
 .first-box {
-    border:solid; border-width: 1px;
-    vertical-align: "top";
-
+    border: 1px solid; 
+    vertical-align: top;
 }
 
 .second-box {
-    border:solid; border-width: 1px;
+    border: 1px solid;
 }
 
-.Series-title {
+.series-title {
     color:rgb(244, 234, 222);
     font-style: italic;
-
 }
+
 .banner {
     background-color: rgb(68, 137, 206);
 }
 
-
-td { padding-right: 30px;
-    padding-left: 30px;
+td { 
+    padding: 0 30px;
 }
 
