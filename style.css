@@ -1,5 +1,6 @@
 .first-box {
-    padding:30px;border:solid; border-width: 1px
+    border:solid; border-width: 1px;
+    vertical-align: "top";
 
 }
 
@@ -7,6 +8,13 @@
     border:solid; border-width: 1px;
 }
 
-td {
-    padding:30px
+.Series-title {
+    color:rgb(55, 55, 135);
+    font-style: italic;
+
 }
+
+td { padding-right: 30px;
+    padding-left: 30px;
+}
+
