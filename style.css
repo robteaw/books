@@ -9,10 +9,14 @@
 }
 
 .Series-title {
-    color:rgb(55, 55, 135);
+    color:rgb(244, 234, 222);
     font-style: italic;
 
 }
+.banner {
+    background-color: rgb(68, 137, 206);
+}
+
 
 td { padding-right: 30px;
     padding-left: 30px;
